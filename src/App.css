@@ -1,3 +1,15 @@
+.beautify {
+  background-color: bisque;
+  height: 100px;
+  color: black;
+  border-radius: 8px;
+
+  margin: 8px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .App {
   text-align: center;
 }
